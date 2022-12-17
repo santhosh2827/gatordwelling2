@@ -1,0 +1,555 @@
+[
+    {
+        "id": 1,
+        "name": "Alight Gainesville",
+        "image": "alight.png",
+        "price": {
+            "minPrice": 715,
+            "maxPrice": 900,
+            "parkingPrice": 25,
+            "utilitiesPrice": 40
+        },
+        "size": {
+            "minBed": 1,
+            "maxBed": 4,
+            "minBath": 1,
+            "maxBath": 4,
+            "minSqft": 600,
+            "maxSqft": 1440
+        },
+        "leasingPeriod": {
+            "start": "august",
+            "end": "august"
+        },
+        "description": "Apartment complex in Fifth Avenue with pool, gym, hammocks, and study areas",
+        "rentalType": "apartment",
+        "furnished": true,
+        "pets": true,
+        "location": {
+            "distanceToCampus": 0.8,
+            "distanceToBusStop": 0.1,
+            "frequencyOfBuses": 10,
+            "neighborhood": "5th Avenue"
+        },
+        "features": {
+            "washer/dryer": true,
+            "disposal": true,
+            "graniteCounters": true,
+            "walkinClosets": true,
+            "fireplace": false,
+            "dishwasher": true,
+            "balcony": true,
+            "hardwoodFloors": true,
+            "wifiIncluded": true,
+            "ceilingFans": true
+        },
+        "amenities": {
+            "pool": true,
+            "studyRooms": true,
+            "trashChutes": false,
+            "24/7Maintenance": false,
+            "gym": true,
+            "clubhouse": true,
+            "outdoorSpace": true,
+            "activities": true
+        },
+        "parking": {
+            "assignedSpots": false,
+            "guestSpots": true,
+            "coveredParking": true,
+            "free": false
+        },
+        "safety": {
+            "securityOfficer": true,
+            "cameras": true,
+            "fobs": true,
+            "2levelKeys": true,
+            "smokeDetectors": true,
+            "firstAid": false
+        }
+
+    },
+    {
+        "id": 2,
+        "name": "The Standard",
+        "image": "standard.png",
+        "price": {
+            "minPrice": 700,
+            "maxPrice": 980,
+            "parkingPrice": 100,
+            "utilitiesPrice": 40
+        },
+        "size": {
+            "minBed": 1,
+            "maxBed": 6,
+            "minBath": 1,
+            "maxBath": 6,
+            "minSqft": 600,
+            "maxSqft": 1440
+        },
+        "leasingPeriod": {
+            "start": "august",
+            "end": "august"
+        },
+        "description": "Apartment complex in Midtown with pool, gym, study rooms, and a dog park",
+        "rentalType": "apartment",
+        "furnished": true,
+        "pets": true,
+        "location": {
+            "distanceToCampus": 0.1,
+            "distanceToBusStop": 0.1,
+            "frequencyOfBuses": 10,
+            "neighborhood": "Midtown"
+        },
+        "features": {
+            "washer/dryer": true,
+            "disposal": true,
+            "graniteCounters": true,
+            "walkinClosets": true,
+            "fireplace": false,
+            "dishwasher": true,
+            "balcony": true,
+            "hardwoodFloors": true,
+            "wifiIncluded": true,
+            "ceilingFans": true
+        },
+        "amenities": {
+            "pool": true,
+            "studyRooms": true,
+            "trashChutes": true,
+            "24/7Maintenance": false,
+            "gym": true,
+            "clubhouse": true,
+            "outdoorSpace": true,
+            "activities": true
+        },
+        "parking": {
+            "assignedSpots": false,
+            "guestSpots": true,
+            "coveredParking": true,
+            "free": false
+        },
+        "safety": {
+            "securityOfficer": true,
+            "cameras": true,
+            "fobs": true,
+            "2levelKeys": true,
+            "smokeDetectors": true,
+            "firstAid": false
+        }
+    },
+    {
+        "id": 3,
+        "name": "Social 28",
+        "image": "social.png",
+        "price": {
+            "minPrice": 770,
+            "maxPrice": 1100,
+            "parkingPrice": 200,
+            "utilitiesPrice": 50
+        },
+        "size": {
+            "minBed": 2,
+            "maxBed": 4,
+            "minBath": 1,
+            "maxBath": 4,
+            "minSqft": 600,
+            "maxSqft": 1440
+        },
+        "leasingPeriod": {
+            "start": "august",
+            "end": "august"
+        },
+        "description": "Apartment complex near Sorority Row with pool, gym, and clubhouse",
+        "rentalType": "apartment",
+        "furnished": true,
+        "pets": false,
+        "location": {
+            "distanceToCampus": 0.1,
+            "distanceToBusStop": 0.1,
+            "frequencyOfBuses": 10,
+            "neighborhood": "Innovation Dist."
+        },
+        "features": {
+            "washer/dryer": true,
+            "disposal": true,
+            "graniteCounters": true,
+            "walkinClosets": true,
+            "fireplace": false,
+            "dishwasher": true,
+            "balcony": true,
+            "hardwoodFloors": true,
+            "wifiIncluded": true,
+            "ceilingFans": true
+        },
+        "amenities": {
+            "pool": true,
+            "studyRooms": true,
+            "trashChutes": false,
+            "24/7Maintenance": false,
+            "gym": true,
+            "clubhouse": true,
+            "outdoorSpace": false,
+            "activities": true
+        },
+        "parking": {
+            "assignedSpots": false,
+            "guestSpots": true,
+            "coveredParking": true,
+            "free": false
+        },
+        "safety": {
+            "securityOfficer": true,
+            "cameras": true,
+            "fobs": true,
+            "2levelKeys": true,
+            "smokeDetectors": true,
+            "firstAid": false
+        }
+    },
+    {
+        "id": 4,
+        "name": "Lark Gainesville",
+        "image": "lark.png",
+        "price": {
+            "minPrice": 790,
+            "maxPrice": 1200,
+            "parkingPrice": 115,
+            "utilitiesPrice": 35
+        },
+        "size": {
+            "minBed": 1,
+            "maxBed": 5,
+            "minBath": 1,
+            "maxBath": 5,
+            "minSqft": 600,
+            "maxSqft": 1440
+        },
+        "leasingPeriod": {
+            "start": "august",
+            "end": "august"
+        },
+        "description": "Apartment complex near Sorority Row with pool, gym, clubhouse, and bowling alley",
+        "rentalType": "apartment",
+        "furnished": true,
+        "pets": true,
+        "location": {
+            "distanceToCampus": 0.3,
+            "distanceToBusStop": 0.1,
+            "frequencyOfBuses": 10,
+            "neighborhood": "Innovation Dist."
+        },
+        "features": {
+            "washer/dryer": true,
+            "disposal": true,
+            "graniteCounters": true,
+            "walkinClosets": false,
+            "fireplace": false,
+            "dishwasher": true,
+            "balcony": true,
+            "hardwoodFloors": true,
+            "wifiIncluded": true,
+            "ceilingFans": true
+        },
+        "amenities": {
+            "pool": true,
+            "studyRooms": true,
+            "trashChutes": true,
+            "24/7Maintenance": false,
+            "gym": true,
+            "clubhouse": true,
+            "outdoorSpace": true,
+            "activities": false
+        },
+        "parking": {
+            "assignedSpots": false,
+            "guestSpots": false,
+            "coveredParking": true,
+            "free": false
+        },
+        "safety": {
+            "securityOfficer": false,
+            "cameras": false,
+            "fobs": true,
+            "2levelKeys": true,
+            "smokeDetectors": true,
+            "firstAid": true
+        }
+    },
+    {
+        "id": 5,
+        "name": "The Ridge",
+        "image": "ridge.png",
+        "price": {
+            "minPrice": 590,
+            "maxPrice": 1000,
+            "parkingPrice": 0,
+            "utilitiesPrice": 40
+        },
+        "size": {
+            "minBed": 1,
+            "maxBed": 4,
+            "minBath": 1,
+            "maxBath": 4,
+            "minSqft": 600,
+            "maxSqft": 1440
+        },
+        "leasingPeriod": {
+            "start": "august",
+            "end": "august"
+        },
+        "description": "Apartment complex in Archer with pool, gym, and clubhouse",
+        "rentalType": "townhome",
+        "furnished": false,
+        "pets": true,
+        "location": {
+            "distanceToCampus": 1.9,
+            "distanceToBusStop": 0.3,
+            "frequencyOfBuses": 30,
+            "neighborhood": "Archer"
+        },
+        "features": {
+            "washer/dryer": true,
+            "disposal": false,
+            "graniteCounters": true,
+            "walkinClosets": true,
+            "fireplace": false,
+            "dishwasher": true,
+            "balcony": false,
+            "hardwoodFloors": true,
+            "wifiIncluded": false,
+            "ceilingFans": true
+        },
+        "amenities": {
+            "pool": true,
+            "studyRooms": true,
+            "trashChutes": false,
+            "24/7Maintenance": false,
+            "gym": true,
+            "clubhouse": true,
+            "outdoorSpace": true,
+            "activities": true
+        },
+        "parking": {
+            "assignedSpots": true,
+            "guestSpots": true,
+            "coveredParking": false,
+            "free": true
+        },
+        "safety": {
+            "securityOfficer": false,
+            "cameras": true,
+            "fobs": false,
+            "2levelKeys": false,
+            "smokeDetectors": true,
+            "firstAid": false
+        }
+    },
+    {
+        "id": 6,
+        "name": "University Club",
+        "image": "universityClub.png",
+        "price": {
+            "minPrice": 610,
+            "maxPrice": 1100,
+            "parkingPrice": 10,
+            "utilitiesPrice": 60
+        },
+        "size": {
+            "minBed": 1,
+            "maxBed": 6,
+            "minBath": 1,
+            "maxBath": 3,
+            "minSqft": 600,
+            "maxSqft": 1440
+        },
+        "leasingPeriod": {
+            "start": "august",
+            "end": "august"
+        },
+        "description": "Apartment complex in Archer with pool, gym, and clubhouse",
+        "rentalType": "apartment",
+        "furnished": false,
+        "pets": false,
+        "location": {
+            "distanceToCampus": 0.8,
+            "distanceToBusStop": 0.4,
+            "frequencyOfBuses": 20,
+            "neighborhood": "Archer"
+        },
+        "features": {
+            "washer/dryer": false,
+            "disposal": false,
+            "graniteCounters": false,
+            "walkinClosets": false,
+            "fireplace": false,
+            "dishwasher": true,
+            "balcony": false,
+            "hardwoodFloors": false,
+            "wifiIncluded": true,
+            "ceilingFans": true
+        },
+        "amenities": {
+            "pool": true,
+            "studyRooms": true,
+            "trashChutes": false,
+            "24/7Maintenance": false,
+            "gym": true,
+            "clubhouse": true,
+            "outdoorSpace": false,
+            "activities": true
+        },
+        "parking": {
+            "assignedSpots": false,
+            "guestSpots": true,
+            "coveredParking": false,
+            "free": false
+        },
+        "safety": {
+            "securityOfficer": true,
+            "cameras": true,
+            "fobs": false,
+            "2levelKeys": false,
+            "smokeDetectors": true,
+            "firstAid": false
+        }
+    },
+    {
+        "id": 7,
+        "name": "Lexington Crossing",
+        "image": "lexington.png",
+        "price": {
+            "minPrice": 620,
+            "maxPrice": 1000,
+            "parkingPrice": 10,
+            "utilitiesPrice": 45
+        },
+        "size": {
+            "minBed": 1,
+            "maxBed": 4,
+            "minBath": 1,
+            "maxBath": 4,
+            "minSqft": 600,
+            "maxSqft": 1440
+        },
+        "leasingPeriod": {
+            "start": "august",
+            "end": "august"
+        },
+        "description": "Apartment complex in Kirkwood with pool, gym, and clubhouse",
+        "rentalType": "apartment",
+        "furnished": false,
+        "pets": false,
+        "location": {
+            "distanceToCampus": 0.6,
+            "distanceToBusStop": 0.2,
+            "frequencyOfBuses": 15,
+            "neighborhood": "Kirkwood"
+        },
+        "features": {
+            "washer/dryer": true,
+            "disposal": true,
+            "graniteCounters": false,
+            "walkinClosets": true,
+            "fireplace": false,
+            "dishwasher": true,
+            "balcony": false,
+            "hardwoodFloors": false,
+            "wifiIncluded": true,
+            "ceilingFans": true
+        },
+        "amenities": {
+            "pool": false,
+            "studyRooms": true,
+            "trashChutes": false,
+            "24/7Maintenance": false,
+            "gym": true,
+            "clubhouse": true,
+            "outdoorSpace": false,
+            "activities": true
+        },
+        "parking": {
+            "assignedSpots": false,
+            "guestSpots": true,
+            "coveredParking": true,
+            "free": false
+        },
+        "safety": {
+            "securityOfficer": true,
+            "cameras": true,
+            "fobs": true,
+            "2levelKeys": false,
+            "smokeDetectors": true,
+            "firstAid": false
+        }
+    },
+    {
+        "id": 8,
+        "name": "Royal Village",
+        "image": "royalVillage.png",
+        "price": {
+            "minPrice": 700,
+            "maxPrice": 1400,
+            "parkingPrice": 75,
+            "utilitiesPrice": 35
+        },
+        "size": {
+            "minBed": 1,
+            "maxBed": 4,
+            "minBath": 1,
+            "maxBath": 4,
+            "minSqft": 600,
+            "maxSqft": 1440
+        },
+        "leasingPeriod": {
+            "start": "august",
+            "end": "august"
+        },
+        "description": "Apartment complex near Sorority Row with pool, gym, and clubhouse",
+        "rentalType": "apartment",
+        "furnished": false,
+        "pets": false,
+        "location": {
+            "distanceToCampus": 0.5,
+            "distanceToBusStop": 0.2,
+            "frequencyOfBuses": 30,
+            "neighborhood": "Innovation Dist."
+        },
+        "features": {
+            "washer/dryer": true,
+            "disposal": true,
+            "graniteCounters": true,
+            "walkinClosets": true,
+            "fireplace": false,
+            "dishwasher": true,
+            "balcony": true,
+            "hardwoodFloors": true,
+            "wifiIncluded": true,
+            "ceilingFans": true
+        },
+        "amenities": {
+            "pool": true,
+            "studyRooms": true,
+            "trashChutes": false,
+            "24/7Maintenance": false,
+            "gym": true,
+            "clubhouse": true,
+            "outdoorSpace": false,
+            "activities": false
+        },
+        "parking": {
+            "assignedSpots": false,
+            "guestSpots": true,
+            "coveredParking": false,
+            "free": false
+        },
+        "safety": {
+            "securityOfficer": true,
+            "cameras": true,
+            "fobs": false,
+            "2levelKeys": false,
+            "smokeDetectors": true,
+            "firstAid": false
+        }
+    }
+]

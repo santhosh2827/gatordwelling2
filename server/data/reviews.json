@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "dwellingId": 1,
+        "date": "2023-02-06",
+        "likes": 10,
+        "dislikes": 2,
+        "score": {
+            "overall": 5,
+            "cleanliness": 5,
+            "value": 4,
+            "location": 5,
+            "management": 5,
+            "noise": 5,
+            "parking": 5,
+            "busRoutes": 5,
+            "safety": 4,
+            "waterPressure": 3,
+            "internet": 5
+        },
+        "reviewer": {
+            "name": "Valeria Jubes",
+            "image": "valeria.png",
+            "email": "valeria.jubes@ufl.edu",
+            "lengthOfResidence": 2
+        },
+        "review": {
+            "title": "Alight is the best place I have ever lived!",
+            "description": "The new management at Alight run by Zack and Jasmine is amazing! They are so attentive and helpful to the needs of their tenants. They are constantly fixing all the issues left by the previous management and forming strong relationships with their tenants. They are quick on response time and always kind. Thank you so much Zack and Jasmine! You guys SLAY!",
+            "tags": [
+                "Great Management",
+                "Accessible Parking",
+                "Overpriced"
+            ],
+            "rent": 790,
+            "utilities": 45,
+            "wouldLiveHereAgain": true
+        }
+    },
+    {
+        "id": 2,
+        "dwellingId": 1,
+        "date": "2023-01-26",
+        "likes": 42,
+        "dislikes": 0,
+        "score": {
+            "overall": 5,
+            "cleanliness": 4,
+            "value": 3,
+            "location": 4,
+            "management": 5,
+            "noise": 5,
+            "parking": 5,
+            "busRoutes": 4,
+            "safety": 3,
+            "waterPressure": 3,
+            "internet": 4
+        },
+        "reviewer": {
+            "name": "Tarah Pownall",
+            "image": "tarah.png",
+            "email": "tarah.pownall@ufl.edu",
+            "lengthOfResidence": 2
+        },
+        "review": {
+            "title": "The management is kind and accommodating",
+            "description": "I am a current resident at Alight Gainesville and I have lived here for two years. The staff has been so kind and accommodating, and they do everything in their power to make our stay here as good as they can. This is Gainesville, so the environment may not always seem the safest, but that is common with any apartment. Things do sometimes get stolen, but it is no fault of Alight's. There is a study room, a gym, and a pool. Guest parking and scooter parking is free. My roommates and I have enjoyed our time here. It may not be luxurious but Great choice for college students just looking for a decent place to live.",
+            "tags": [
+                "Great for Pets",
+                "Fast Maintenance",
+                "Overpriced",
+                "Slow Elevators"
+            ],
+            "rent": 790,
+            "utilities": 45,
+            "wouldLiveHereAgain": true
+        }
+    },
+    {
+        "id": 3,
+        "dwellingId": 1,
+        "date": "2022-12-12",
+        "likes": 13,
+        "dislikes": 1,
+        "score": {
+            "overall": 5,
+            "cleanliness": 4,
+            "value": 3,
+            "location": 4,
+            "management": 5,
+            "noise": 5,
+            "parking": 5,
+            "busRoutes": 4,
+            "safety": 3,
+            "waterPressure": 3,
+            "internet": 4
+        },
+        "reviewer": {
+            "name": "Alejandra Bayer",
+            "image": "alejandra.png",
+            "email": "alejandra.bayer@ufl.edu",
+            "lengthOfResidence": 1
+        },
+        "review": {
+            "title": "Devent college apartment complex",
+            "description": "I think this is a pretty decent college apartment complex. Great location and amenities for the price. I would especially like to point out the leasing office staff for being so kind and helpful, specifically Yayi. Always has a great attitude and is willing to be of any source of assistance. Definitely recommend going to talk to her about leasing and everything.",
+            "tags": [
+                "Poor Lighting",
+                "Inconvenient Trash",
+                "Great Location"
+            ],
+            "rent": 710,
+            "utilities": 45,
+            "wouldLiveHereAgain": true
+        }
+    },
+    {
+        "id": 4,
+        "dwellingId": 1,
+        "date": "2022-11-29",
+        "likes": 8,
+        "dislikes": 1,
+        "score": {
+            "overall": 4,
+            "cleanliness": 4,
+            "value": 3,
+            "location": 5,
+            "management": 5,
+            "noise": 5,
+            "parking": 5,
+            "busRoutes": 4,
+            "safety": 3,
+            "waterPressure": 3,
+            "internet": 5
+        },
+        "reviewer": {
+            "name": "Katie Puccio",
+            "image": "katie.png",
+            "email": "katie.puccio@ufl.edu",
+            "lengthOfResidence": 2
+        },
+        "review": {
+            "title": "Great experience -- quick and efficient management",
+            "description": "I lived at Alight for 2 years and had a great experience! Management was attentive, maintenance was always quick and efficient, and I loved seeing G in the office every time I needed something. She was always polite and knowledgeable, and made my stay here very enjoyable.",
+            "tags": [
+                "Great Management",
+                "Great Location"
+            ],
+            "rent": 790,
+            "utilities": 45,
+            "wouldLiveHereAgain": true
+        }
+    },
+    {
+        "id": 5,
+        "dwellingId": 1,
+        "date": "2022-11-12",
+        "likes": 3,
+        "dislikes": 0,
+        "score": {
+            "overall": 3,
+            "cleanliness": 4,
+            "value": 3,
+            "location": 4,
+            "management": 5,
+            "noise": 5,
+            "parking": 5,
+            "busRoutes": 4,
+            "safety": 3,
+            "waterPressure": 3,
+            "internet": 4
+        },
+        "reviewer": {
+            "name": "Meghan Yang",
+            "image": "meghan.png",
+            "email": "meghan.yang@ufl.edu",
+            "lengthOfResidence": 1
+        },
+        "review": {
+            "title": "Old building that is always dirty",
+            "description": "I currently live at Alight, and it has not been a great experience for the high rent that I pay. When we arrived, the rooms were disgusting. There was stuff all over the floor and it was just overall messy. They painted the rooms over the summer and the paint job is terrible. The yellow paint is still visible under the grey and it is all over the ceilings and doors. The bathrooms have a severe mold problem and require constant cleaning to keep it at bay. The lighting in all the rooms is depressing and dim. At one point, our sink literally fell through the counter and I know that this happened to multiple people. Our dishwasher kept flooding for months and it smelled awful. We had maintenance come four times before we got a real solution. For a while, this apartment complex had a problem with homeless people coming into the buildings because the locks are rarely working and management never made us aware of this issue. It is very difficult to have guests over because there is very little visitor parking. There are a few positive things about living at Alight. The location is relatively close to campus and conveniently located to grocery stores and food. The office staff are also super nice and helpful. My room is reasonably quiet for a college apartment. Overall, probably not the worst apartment but I would not recommend it for the price.",
+            "tags": [
+                "Poor Maintenance",
+                "Bug Problems",
+                "Unavailable Parking"
+            ],
+            "rent": 790,
+            "utilities": 40,
+            "wouldLiveHereAgain": false
+        }
+    }
+]
